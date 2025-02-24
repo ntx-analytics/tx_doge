@@ -1,0 +1,6 @@
+dash>=2.5.0
+dash-bootstrap-components
+dash-ag-grid
+pandas
+plotly
+gunicorn
